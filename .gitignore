@@ -2,6 +2,14 @@
 #
 .DS_Store
 
+# enviorments
+.env
+.env.*
+
+
+#hide configs
+config/
+
 # Xcode
 #
 build/
